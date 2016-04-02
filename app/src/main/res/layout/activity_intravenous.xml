@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/eee"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.android.askyourdoctor.Intravenous">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Intravenous injection
+The proper way in which intravenous injections are as follows:"
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1- Typically, these drugs are in the form of powder, so it is taken distilled
+        water found in containers through a needle, and then the water is pumped to another
+        explosive device containing the drug powder."
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+2- is Shake containing distilled water and powder, medicine powder to blend fully and turns into
+        a liquid, and then be taking this fluid through the needle."
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+3- are sterilized area that will enter the needle, usually the needle is
+        inserted in the median cubital vein is located in the center of the arm."
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+4- needle is inserted into a vein caution and speed and agility hands at once."
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+5- is pumped medication and take it out of the needle carefully, to avoid injury to the vein damage affecting his work."
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+6- at the end of the drug in the needle is taken out carefully to avoid harming the patient. Directed by"
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7- after the needle is put a piece of cotton for a minute on the introduction of the needle area,
+        to be cleaned of blood outside of the vein."
+            android:textColor="#ffbb00"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:layout_width="402dp"
+            android:layout_height="222dp"
+            android:src="@drawable/iii" />
+    </LinearLayout>
+</ScrollView>

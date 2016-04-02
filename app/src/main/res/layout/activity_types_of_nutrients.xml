@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/eee"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.android.askyourdoctor.Types_of_nutrients">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Types of nutrients
+Foods that we eat on thousands of different compounds and chemicals contain. However,
+the number of chemicals of utmost importance in maintaining our health does not exceed a few dozen.
+These are the nutrients that you should get it from the food we consume.
+It classifies nutrients nutrition scientists into six main groups:
+"
+            android:textColor="#03ff42"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Water
+2. Carbohydrates
+3. fat
+4. proteins
+5. metal salts
+6. vitamins
+7. Other nutrients such as antioxidants and Alvetukemejkal"
+
+            android:textColor="#03ff42"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:layout_width="500dp"
+            android:layout_height="600dp"
+            android:src="@drawable/lll" />
+    </LinearLayout>
+</ScrollView>

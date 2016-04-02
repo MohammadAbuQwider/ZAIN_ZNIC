@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/eee"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.android.askyourdoctor.General_guidance">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="General Guidelines
+    Before embarking on a rescue operation on the medic, perform the following steps:
+1. request urgent medical assistance and evacuation of the wounded from the place of danger."
+            android:textColor="#ff0318"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. start the ministry of the most serious cases, such as bleeding or stop breathing or only big accidents
+(The presence of a large number of those infected) then you must start racing sorting infected by applicable laws state
+(The state's plan in dealing with major accidents) There are, for example, but not limited to the British plan in dealing
+with major accidents and the US plan to deal with major accidents and every plan is different from other
+procedures and classification of the injured."
+            android:textColor="#ff0318"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+3. continue to preview and ambulance until the arrival of the doctor or the delivery status of the hospital."
+            android:textColor="#ff0318"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="
+            4. Non evacuated from the position if there is a possibility of the presence of fractures in the spine or rib cage,
+but in the case of removal from danger and so is placed on the straight bra"
+            android:textColor="#ff0318"
+            android:textSize="25sp" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mmm" />
+    </LinearLayout>
+
+</ScrollView>
