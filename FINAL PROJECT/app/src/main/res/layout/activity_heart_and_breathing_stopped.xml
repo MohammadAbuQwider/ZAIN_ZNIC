@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backk"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.android.askyourdoctor.Heart_and_breathing_stopped">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/heart"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Heart and breathing stopped
+1-is restored blood circulation and breathing in patients, by taking the following steps:"
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Tilt the patient's head back until it highlights the chin and in the case of airway
+obstruction should open remove any foreign objects fingers and beatings on the back between the shoulders."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3-examine the patient's response: it is worth trying to get an oral answer by asking questions or rocked
+gently on the shoulder of the child."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4-open the airway by tilting the head back and lift the chin to open the airway and remove any obvious obstruction."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5-examination of breathing (see, hear, sense) for five seconds, it is testing to see
+if there is enough breathing or breathing or not.
+"
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6-being snapped a ventilator rescuer deep breath and then put his mouth on the patient's
+mouth or nose and gives him four quick breaths without Tsrib..otkirar process until interrupted breathing or links in their own gags."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. examine the arterial pulse of the child and determine whether it exists or not."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8-in the absence of breathing is direct action cardiopulmonary resuscitation."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9-recovery process is directly exercise cardiac massage by pressing palms on the
+sternum at a rate of pressure every second for 30 consecutive pressure so as to help
+the heart pump, and then direct the industrial breathing."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10-patient given myself rescue effective all the same 1.5 seconds or until the chest rises sufficiently.
+"
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11. The examination of the blood circulation for a period not exceeding ten seconds after each
+round of cardiac massage and artificial respiration."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12-Tkaralamlah be back until pulse and respiration or ambulance arrives or tired or show signs
+such as Alovat Altkhcb chucking and cooler body and the stability of the expansion of the pupil of the eye."
+            android:textColor="#0b0b0b"
+            android:textSize="25sp" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/yes" />
+    </LinearLayout>
+</ScrollView>
